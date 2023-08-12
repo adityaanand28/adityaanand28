@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I am **Aditya Anand**, a junior undergraduate from IIT Kanpur pursuing B.Tech. 
+Hey! I am **Aditya Anand**, a final-year undergraduate from IIT Kanpur pursuing B.Tech. 
 
 - 🌱 I’m pasionate about finance and Web Development.
 - 👨‍💻 The use of technology in the financial world is something I am excited about!
