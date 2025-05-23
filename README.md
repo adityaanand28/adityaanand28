@@ -8,7 +8,7 @@ Hey! I am **Aditya Anand**, a final-year undergraduate from IIT Kanpur pursuing 
 - 🌐 [Portfolio Website](https://adityaanand28.github.io/)
 
 📫 How to reach me: 
-        - Email : anaditya20@iitk.ac.in
+        - Email : adityaanandaa28@gmail.com
         - Linkedin : [adityaanand28][2]
 
  
